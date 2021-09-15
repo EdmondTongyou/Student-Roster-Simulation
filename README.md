@@ -1,6 +1,6 @@
 # Student-Roster-Simulation
 
-A simulation of a student-roster done for a python lab.
+A simulation of a student-roster done for a python lab.  
 The code mostly focuses on using lists, reading and writing to files,
 
 ## Has the following capabilities:
